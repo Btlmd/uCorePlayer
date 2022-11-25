@@ -1,0 +1,9 @@
+.idea
+.ipynb_checkpoints
+__pycache__
+*_logs
+*.ipynb
+config.json
+*.deb
+*.zip
+compare.log

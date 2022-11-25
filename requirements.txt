@@ -1,0 +1,5 @@
+termcolor
+IPython
+requests
+selenium
+webdriver-manager
